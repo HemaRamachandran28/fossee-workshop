@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useInView } from '../../hooks/useCountUp.js';
-import { steps } from '../../data/index.js';
+import { steps } from '../../data/index.js';  
 import { ArrowRight } from 'lucide-react';
 
 export default function HowItWorks() {
