@@ -6,7 +6,7 @@ const colorMap = {
   0: 'from-violet-500/20 to-violet-600/5 border-violet-500/20',
   1: 'from-teal-500/20 to-teal-600/5 border-teal-500/20',
   2: 'from-rose-500/20 to-rose-600/5 border-rose-500/20',
-  3: 'from-amber-500/20 to-amber-600/5 border-amber-500/20',
+  3: 'from-amber-500/20 to-amber-600/5 border-amber-500/20', 
   4: 'from-sky-500/20 to-sky-600/5 border-sky-500/20',
   5: 'from-emerald-500/20 to-emerald-600/5 border-emerald-500/20',
 };
