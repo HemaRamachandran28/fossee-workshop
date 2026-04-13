@@ -4,7 +4,7 @@ import { motion, useSpring } from 'framer-motion';
 export default function ScrollProgress() {
   const [progress, setProgress] = useState(0);
   const spring = useSpring(progress, { stiffness: 200, damping: 30 });
-
+  
   useEffect(() => {
     const update = () => {
       const el = document.documentElement;
