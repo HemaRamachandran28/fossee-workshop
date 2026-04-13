@@ -3,7 +3,7 @@ import { useCountUp, useInView } from '../../hooks/useCountUp.js';
 import { stats } from '../../data/index.js';
 
 function StatCard({ stat, index, inView }) {
-  const count = useCountUp(stat.value, 2200, inView);
+  const count = useCountUp(stat.value, 2200, inView);  
 
   return (
     <motion.div
