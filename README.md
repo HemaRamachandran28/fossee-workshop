@@ -1,7 +1,7 @@
 # FOSSEE Workshops 
 
-A modern, responsive SaaS-style web application for managing and exploring FOSSEE workshops.  
-Built with React, Vite, Tailwind CSS, and Framer Motion — inspired by modern UI platforms like Lovable.
+A modern, responsive SaaS platform for managing and exploring FOSSEE workshops, designed with a focus on performance, scalability, and user experience.
+Built using React, Vite, Tailwind CSS, and Framer Motion, following contemporary UI/UX design principles.
 
 ---
 
