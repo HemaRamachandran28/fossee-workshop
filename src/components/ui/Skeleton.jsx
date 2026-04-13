@@ -6,7 +6,7 @@ function SkeletonBase({ className = '' }) {
       className={`rounded-xl bg-white/[0.04] relative overflow-hidden ${className}`}
       aria-hidden="true"
     >
-      <div
+      <div  
         className="absolute inset-0 -translate-x-full animate-[shimmer_1.6s_infinite]"
         style={{
           background: 'linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.04) 50%, transparent 100%)',
