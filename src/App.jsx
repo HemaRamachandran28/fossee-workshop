@@ -5,7 +5,7 @@ import { ToastProvider } from './context/ToastContext.jsx';
 import ScrollProgress from './components/ui/ScrollProgress.jsx';
 import BackToTop from './components/ui/BackToTop.jsx';
 import CursorGlow from './components/ui/CursorGlow.jsx';
-import PageTransition from './components/layout/PageTransition.jsx';
+import PageTransition from './components/layout/PageTransition.jsx'; 
 
 import Landing        from './pages/Landing.jsx';
 import Login          from './pages/Login.jsx';
