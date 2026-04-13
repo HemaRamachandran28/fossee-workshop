@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useInView } from '../../hooks/useCountUp.js';
-import { ArrowRight, Sparkles } from 'lucide-react';
+import { ArrowRight, Sparkles } from 'lucide-react'; 
 
 export default function CTA() {
   const [ref, inView] = useInView(0.2);
