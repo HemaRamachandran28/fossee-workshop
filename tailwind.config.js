@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        display: ['"Cabinet Grotesk"', 'sans-serif'],
+        display: ['"Cabinet Grotesk"', 'sans-serif'], 
         body: ['"Satoshi"', 'sans-serif'],
         mono: ['"JetBrains Mono"', 'monospace'],
       },
