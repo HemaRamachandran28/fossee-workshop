@@ -61,10 +61,10 @@ Built with React, Vite, Tailwind CSS, and Framer Motion — inspired by modern U
 ---
 
 ## ⚙️ Installation
-git clone https://github.com/HemaRamachandran28/fossee-workshop.git
-cd fossee-workshop
-npm install
-npm run dev
+- git clone https://github.com/HemaRamachandran28/fossee-workshop.git
+- cd fossee-workshop
+- npm install
+- npm run dev
 
 ---
 
