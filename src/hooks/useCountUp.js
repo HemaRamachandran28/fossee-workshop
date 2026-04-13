@@ -5,7 +5,7 @@ export function useCountUp(target, duration = 2000, start = false) {
   const raf = useRef(null);
 
   useEffect(() => {
-    if (!start) return;
+    if (!start) return;  
     let startTime = null;
 
     const step = (timestamp) => {
