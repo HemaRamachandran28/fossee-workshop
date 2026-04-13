@@ -9,7 +9,7 @@ export function Button({ children, variant = 'primary', size = 'md', loading, di
     primary: 'btn-primary',
     ghost: 'btn-ghost',
     danger: 'bg-rose-500/10 border border-rose-500/30 text-rose-400 hover:bg-rose-500/20',
-  };
+  };  
   return (
     <button className={`${base} ${sizes[size]} ${variants[variant]} ${className}`} disabled={disabled || loading} {...props}>
       {loading && <Loader2 size={14} className="animate-spin" />}
