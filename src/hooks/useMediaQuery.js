@@ -7,7 +7,7 @@ export function useMediaQuery(query) {
   });
 
   useEffect(() => {
-    const mq = window.matchMedia(query);
+    const mq = window.matchMedia(query);  
     setMatches(mq.matches);
     const handler = (e) => setMatches(e.matches);
     mq.addEventListener('change', handler);
