@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 export default function CursorGlow() {
   const ref = useRef(null);
   const pos = useRef({ x: 0, y: 0 });
-  const current = useRef({ x: 0, y: 0 });
+  const current = useRef({ x: 0, y: 0 });  
   const raf = useRef(null);
 
   useEffect(() => {
