@@ -6,7 +6,7 @@ import { Star, Quote } from 'lucide-react';
 const avatarColor = {
   violet: 'from-violet-600 to-violet-800',
   teal: 'from-teal-600 to-teal-800',
-  rose: 'from-rose-600 to-rose-800',
+  rose: 'from-rose-600 to-rose-800',  
 };
 
 const borderColor = {
