@@ -42,7 +42,7 @@ function AnimatedRoutes() {
   );
 }
 
-export default function App(){
+export default function App() {
   return (
     <AuthProvider>
       <ToastProvider>
