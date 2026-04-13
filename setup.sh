@@ -35,7 +35,7 @@ else
   echo "✓ Git repository already exists"
 fi
 
-echo ""
+echo ""   
 echo "╔══════════════════════════════════════════════╗"
 echo "║  Setup complete! Next steps:                 ║"
 echo "║                                              ║"
