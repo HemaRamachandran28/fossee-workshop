@@ -6,7 +6,7 @@ import { workshopTypes } from '../../data/index.js';
 import { Clock, ArrowRight, Users } from 'lucide-react';
 
 const FILTERS = ['All', 'Programming', 'Engineering', 'Simulation', 'Tools', 'Data Science'];
-
+  
 const levelConfig = {
   Beginner: { color: 'text-teal-400', bg: 'bg-teal-400/10 border-teal-400/20' },
   Intermediate: { color: 'text-violet-400', bg: 'bg-violet-400/10 border-violet-400/20' },
