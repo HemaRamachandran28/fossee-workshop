@@ -83,7 +83,7 @@ git commit -m "feat: layout shell and navigation
 
 - Navbar: sticky glassmorphic header
   - Active route highlighting
-  - Auth-aware dropdown menu
+  - Auth-aware dropdown menu  
   - Mobile slide-in drawer
   - Logo with glow effect
 - AppShell: page wrapper with ambient background + dot grid
