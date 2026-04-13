@@ -6,7 +6,7 @@ export const navLinks = [
 ];
 
 export const workshopTypes = [
-  {
+  {  
     id: 1, icon: '⚡', color: 'violet',
     name: 'Python for Scientific Computing',
     duration: '3 Days', level: 'Intermediate', category: 'Programming',
