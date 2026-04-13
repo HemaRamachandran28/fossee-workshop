@@ -6,7 +6,7 @@ import AppShell from '../components/layout/AppShell.jsx';
 import { PageHeader, Badge, Card, Empty } from '../components/ui/index.jsx';
 import { useAuth } from '../context/AuthContext.jsx';
 
-const bookings = [
+const bookings = [  
   { id: 1, name: 'Python for Scientific Computing', date: '2025-05-15', venue: 'IIT Bombay, Mumbai', instructor: 'Dr. Prabhu Ramachandran', status: 'confirmed', duration: '3 Days', certificate: false },
   { id: 2, name: 'LaTeX for Academic Writing', date: '2025-06-03', venue: 'BITS Pilani', instructor: 'Pending assignment', status: 'pending', duration: '1 Day', certificate: false },
   { id: 3, name: 'Introduction to SCILAB', date: '2024-12-10', venue: 'VIT Vellore', instructor: 'Prof. Kannan Moudgalya', status: 'completed', duration: '2 Days', certificate: true },
