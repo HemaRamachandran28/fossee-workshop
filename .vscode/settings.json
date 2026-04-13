@@ -8,5 +8,5 @@
     ["cn\\(([^)]*)\\)", "'([^']*)'"]
   ],
   "files.associations": { "*.jsx": "javascriptreact" },
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true   
 }
