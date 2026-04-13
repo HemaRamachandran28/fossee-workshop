@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Menu, X, Sparkles, LayoutDashboard, LogOut, User } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext.jsx';
-
+  
 const navLinks = [
   { label: 'Workshops', href: '/workshops' },
   { label: 'Statistics', href: '/statistics' },
