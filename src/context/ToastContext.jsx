@@ -12,7 +12,7 @@ const icons = {
 };
 
 const borders = {
-  success: 'border-teal-500/20',
+  success: 'border-teal-500/20',  
   error:   'border-rose-500/20',
   info:    'border-violet-500/20',
   warning: 'border-amber-500/20',
