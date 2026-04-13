@@ -5,7 +5,7 @@ import Footer from './Footer.jsx';
 
 export default function AppShell({ children, withFooter = true }) {
   const { pathname } = useLocation();
-
+  
   // Scroll to top on route change
   useEffect(() => { window.scrollTo(0, 0); }, [pathname]);
 
