@@ -6,7 +6,7 @@ const footerLinks = {
   Platform: ['Browse Workshops', 'Propose Workshop', 'Statistics', 'Certificates'],
   Organisation: ['About FOSSEE', 'IIT Bombay', 'MHRD Initiative', 'Contact Us'],
 };
-
+   
 export default function Footer() {
   return (
     <footer className="relative border-t border-white/[0.06] mt-32">
